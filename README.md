@@ -1,0 +1,1 @@
+<a href="https://github.com/pedrollandim/Prognostico_de_LGC_atraves_de_CNN" target="_blank"><img src="https://github.com/pedrollandim/Prognostico_de_LGC_atraves_de_CNN/blob/main/Prognostico_de_LGC_atraves_de_CNN.png" target="_blank"></a>
